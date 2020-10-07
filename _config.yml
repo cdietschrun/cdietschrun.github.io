@@ -23,7 +23,7 @@ github_username:  cdietschrun
 
 # Build settings
 markdown: kramdown
-theme: horace
+theme: minima
 plugins:
   - jekyll-feed
 
