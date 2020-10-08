@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "World of Warcraft React App"
+date:   2020-10-07 23:07:08 -0500
+categories: update wow-app
+---
+My application to learn some new stuff with React and APIs is also on my GitHub Pages here:[wow-app]
+
+[wow-app]: https://cdietschrun.github.io/wow-app
